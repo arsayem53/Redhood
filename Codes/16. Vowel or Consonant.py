@@ -3,5 +3,5 @@ if target == 'a' or target == 'e' or target == 'i' or target == 'o' or target ==
      print("This is a vowel")
 else:
      print("This is consonant")
-
+     
  
